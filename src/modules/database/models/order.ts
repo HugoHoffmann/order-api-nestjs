@@ -8,7 +8,7 @@ export class Order extends Model implements IOrder {
   public id: number;
   @ApiProperty({ type: 'string' })
   public description: string;
-  @ApiProperty({ type: 'number' })
+  @ApiProperty({ type: 'decimal' })
   public amount: number;
   @ApiProperty({ type: 'decimal' })
   public value: number;
