@@ -1,4 +1,4 @@
-WaProject Api Base
+Api pedidos
 ==================
 
 Utilize o VSCode, já está configurado com sugestão de extensões e debug.
