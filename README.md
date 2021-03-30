@@ -30,6 +30,9 @@ node ./init.js
 # levantará o docker com o banco de dados e a aplicação.
 # Ele aplicará as migrations/seeds do banco e depois dará watch nos arquivos
 # e iniciará o node com a api
+
+# após o projeto rodando, você poder testar os endpoints pelo swagger:
+http://localhost:3001/swagger/#/
 ```
 
 ### Para mais informações veja a pasta ./docs
